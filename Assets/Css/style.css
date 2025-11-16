@@ -7,7 +7,7 @@
 }
 
 .main_header_div{
-    background-color: rgb(82, 75, 75);
+    background-color: rgb(91, 170, 175);
     display: flex;
     align-items:center;
 
@@ -32,8 +32,9 @@
 }
 .header_right_side_label{
     font-size:40px;
-    color:grey;
-    font-family: 'Courier New', Courier, monospace;
+    color:rgb(226, 228, 231);
+    font-family: 'Chiby';
+
 }
 .header_right_side{
     width:50%;
@@ -51,7 +52,7 @@
     border:none;
     outline:none;
     background-color: rgb(148, 32, 32);
-    color: black;
+    color: rgb(0, 0, 0);
     font-size:20px;
 
 
