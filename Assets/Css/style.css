@@ -54,6 +54,7 @@
     background-color: rgb(148, 32, 32);
     color: rgb(0, 0, 0);
     font-size:20px;
+    
 
 
 
@@ -61,5 +62,64 @@
 
 
 
+}
+/*body inside css*/
+.middle_main_div{
+    display:flex;
+    background-color:blueviolet
+    
+    
 
+    
+
+}
+.middle_main_div{
+    background-color: rgb(71, 177, 177);
+}
+
+.img-size{
+    
+    width:20%;
+    height:40%;
+    
+}
+.logo_size{
+   
+    width:10%;
+    height:5%;
+}
+
+.top_class_div{
+    display:flex;
+    background-color: rgb(232, 241, 231);
+    justify-content: center;
+    align-items:center;
+    margin:80px;
+    padding-left: 80px;
+
+}
+.top_left{
+     display:flex;
+    background-color: blueviolet;
+    justify-content:left;
+    align-items: start;
+}
+.left_side_div{
+    display:flex;
+    align-items:left;
+    
+
+}
+.top_right{
+    display:flex;
+    justify-content: center;
+    display:flex;
+    text-align: center;
+    background-color: rgb(127, 209, 95);
+   
+}
+.bottom_class_div{
+    display:flex;
+    align-items:center;
+    justify-content:center;
 }
